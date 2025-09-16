@@ -22,4 +22,6 @@
 - [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/1770044149/)
 - [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/submissions/1770085327/)
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1770111863/)
+- [904. Fruits Into Baskets](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/1770044149/)
+  
 
