@@ -26,7 +26,7 @@
 
 
 ## Binary Search
-- [33. Search In Rotated Sorted Array]([https://leetcode.com/problems/maximum-average-subarray-i/submissions/1758019724/])
+- [33. Search In Rotated Sorted Array](https://leetcode.com/problems/maximum-average-subarray-i/submissions/1758019724/)
 - [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1592984041/)
 - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1523410862/)
 
