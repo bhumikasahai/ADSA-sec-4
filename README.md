@@ -30,6 +30,7 @@
 - [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1592984041/)
 - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1523410862/)
 - [81. Search In Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/1568906161/)
+- [540. Single Element In a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1777718712/)
 
   
 
