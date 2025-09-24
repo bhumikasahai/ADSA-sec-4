@@ -33,7 +33,7 @@
 - [540. Single Element In a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1777718712/)'
 - [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/1781106687/)
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/1497117227/)
-- [875. Koko Eating Bananas]()
+- [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/submissions/1781440659/)
 
   
 
