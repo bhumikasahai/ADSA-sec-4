@@ -30,7 +30,10 @@
 - [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1592984041/)
 - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1523410862/)
 - [81. Search In Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/1568906161/)
-- [540. Single Element In a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1777718712/)
+- [540. Single Element In a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1777718712/)'
+- [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/1781106687/)
+- [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/1497117227/)
+- [875. Koko Eating Bananas]()
 
   
 
