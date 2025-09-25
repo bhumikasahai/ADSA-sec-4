@@ -34,11 +34,12 @@
 - [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/1781106687/)
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/1497117227/)
 - [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/submissions/1781440659/)
-- [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/1495046438/)
-
 
 ## Linked List
 - [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/1504049440/)
+- [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/1495046438/)
+- [19. Remove Nth Node From End of LinkedList](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1775267430/)
+-  
 
 
   
