@@ -35,5 +35,10 @@
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/1497117227/)
 - [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/submissions/1781440659/)
 
+
+## Linked List
+- [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/1504049440/)
+
+
   
 
