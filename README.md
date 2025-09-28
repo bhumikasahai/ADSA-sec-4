@@ -42,7 +42,9 @@
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/1487158330/)
 - [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/submissions/1784530979/)
 - [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/submissions/1491701485/)
-- [Detect a Loop in a LL](https://leetcode.com/problems/linked-list-cycle/submissions/1784869661/)
+- [141. Detect a Loop in a LL](https://leetcode.com/problems/linked-list-cycle/submissions/1784869661/)
+- [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/1784873417/)
+- [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1784880803/)
 
 
   
