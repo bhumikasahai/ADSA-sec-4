@@ -45,6 +45,7 @@
 - [141. Detect a Loop in a LL](https://leetcode.com/problems/linked-list-cycle/submissions/1784869661/)
 - [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/1784873417/)
 - [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1784880803/)
+- [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/1789354011/)
 
 
   
