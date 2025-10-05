@@ -49,6 +49,11 @@
 - [61. Rotate List](https://leetcode.com/problems/rotate-list/submissions/1789368951/)
 - [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/submissions/1790182733/)
 
+  ## Stack and Queue
+  - [Stack using Array](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1)
+  - 
+
+
 
   
 
