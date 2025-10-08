@@ -54,6 +54,7 @@
 - [Stack using Linked List](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
 - [20. Valid Paranthesis](https://leetcode.com/problems/valid-parentheses/submissions/1532651363/)
 - [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/1791783688/)
+- [496. Next Greater Element](https://leetcode.com/problems/next-greater-element-i/submissions/1777299884/)
  
 
 
