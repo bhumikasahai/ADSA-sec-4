@@ -58,7 +58,7 @@
 - [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1795207571/)
 - [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/submissions/1777678781/)
 - [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/submissions/1796286651/)
-- 
+- [442. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/1777910311/)
  
 
 
