@@ -60,6 +60,7 @@
 - [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/submissions/1796286651/)
 - [442. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/1777910311/)
 - [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/submissions/1797601745/)
+- [402. Remove k Digits](https://leetcode.com/problems/remove-k-digits/submissions/1778913329/)
  
 
 
