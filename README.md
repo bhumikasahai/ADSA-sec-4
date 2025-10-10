@@ -61,6 +61,7 @@
 - [442. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/1777910311/)
 - [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/submissions/1797601745/)
 - [402. Remove k Digits](https://leetcode.com/problems/remove-k-digits/submissions/1778913329/)
+- [2104. Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/submissions/1797657987/)
  
 
 
