@@ -62,6 +62,7 @@
 - [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/submissions/1797601745/)
 - [402. Remove k Digits](https://leetcode.com/problems/remove-k-digits/submissions/1778913329/)
 - [2104. Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/submissions/1797657987/)
+- [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/submissions/1798564798/)
  
 
 
