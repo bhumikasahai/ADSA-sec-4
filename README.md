@@ -64,6 +64,9 @@
 - [2104. Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/submissions/1797657987/)
 - [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/submissions/1798564798/)
 - [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/submissions/1798568233/)
+
+## Binary Tree
+- [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1798925216/)
  
 
 
